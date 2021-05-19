@@ -1,3 +1,4 @@
 Debug/**
 /Debug/
 /Release/
+.settings/org.eclipse.core.resources.prefs
